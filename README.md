@@ -23,6 +23,8 @@ This repository contains a deep learning model built with PyTorch for facial exp
 ## Project Overview
 
 Facial expression recognition is a fundamental task in human-computer interaction and affective computing. This project implements a Convolutional Neural Network (CNN) trained on a labeled dataset of facial images to classify emotions accurately.
+<img src="https://raw.githubusercontent.com/Ahmadjamil888/Facial-Recognition-AI-model/refs/heads/main/Screenshot%202025-06-26%20134324.png">
+
 
 ---
 
